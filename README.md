@@ -1,4 +1,4 @@
-# rw-pr-envs
+# rw-pr-envsz
 
 To install dependencies:
 
